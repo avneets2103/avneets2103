@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there👋 I am Avneet Singh
+### Your friendly neighourhood developer...
 
 - 🔭 I’m currently working on some front end projects using HTML,CSS,JS,Bootstrap.
 - 🌱 I’m currently learning SASS.
