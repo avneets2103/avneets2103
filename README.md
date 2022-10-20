@@ -1,13 +1,18 @@
 ### Hi there 👋
-**avneets2103/avneets2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on some front end projects using HTML,CSS,JS,Bootstrap.
+- 🌱 I’m currently learning SASS.
+- 👯 I’m looking to collaborate on web projects.
+- 🤔 I’m looking for help with JavaScript.
+- 📫 Reach me via: avneets2103@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once used to sketch and make portraits, now I 
+
+Projects:
+- Foeto: On going project with team of 5.
+- TinDog: A frontend website as Tinder for dogs.
+- DiceE: Basic Dice simulator game for resolving your disputes.
+- DSA-qns: Questions using DSA for solving problems.
+
