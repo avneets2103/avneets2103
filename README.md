@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with JavaScript.
 - 📫 Reach me via: avneets2103@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once used to landscapes, now i capture it in pixels. 
+- ⚡ Fun fact: I once used to draw landscapes, now i capture it in pixels. 
 
 Projects:
 - Foeto: On going project with team of 5.
