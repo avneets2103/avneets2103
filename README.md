@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on web projects.
 - 📫 Reach me via: avneets2103@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ See this: SHAZAAM ... oops still human! 
+- ⚡ SHAZAAM ... oops still human! 
 
 Projects:
 - Foeto: On going project with team of 5.
