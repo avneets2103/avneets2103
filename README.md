@@ -1,11 +1,10 @@
 ### Hi there👋 I am Avneet Singh
 ### Your friendly neighourhood developer...
 
-- 🔭 I’m currently working on some front end projects using HTML,CSS,JS,Bootstrap.
-- 🌱 I’m currently learning EJS and Git.
+- 🔭 Currently working on some front end projects using HTML,CSS,JS,Bootstrap.
+- 🌱  and currently learning EJS and Databases.
 - 👯 I’m looking to collaborate on web projects.
 - 📫 Reach me via: avneets2103@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ SHAZAAM ... oops still human! 
 
 Projects:
@@ -16,4 +15,4 @@ Projects:
 - TinDog: A frontend website as Tinder for dogs .. https://avneets2103.github.io/TinDog/
 - DiceE: Basic Dice simulator game for resolving your disputes .. https://avneets2103.github.io/DiceE/
 - DSA-qns: Questions using DSA for solving problems 
-
+### and adding.
