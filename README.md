@@ -9,6 +9,7 @@
 - ⚡ SHAZAAM ... oops still human! 
 
 Projects:
+- TicTacToe : A easy time cutter for you .. https://avneets2103.github.io/TicTacToe/index.html 
 - Basic portfolio: Come to know me via a portfolio site .. https://avneets2103.github.io/Basic-portfolio-/
 - Spotify light theme: For all the light theme lovers, here I give uh your spotify .. https://avneets2103.github.io/spotify-light-theme/
 - Foeto: On going project with team of 5 
