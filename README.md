@@ -38,7 +38,7 @@ Stuff i know:
 Projects:
 
 - [![website](./img/globe-dark.svg)](https://avneets2103.github.io/Clocks/index.html) Clock : A clock to keep you on time
-- [![website](./img/globe-dark.svg)](https://avneets2103.github.io/TicTacToe/index.html) TicTacToe : A easy time cutter for you 
+- [![website](./img/globe-dark.svg)]([https://avneets2103.github.io/TicTacToe/index.html](https://avneets2103.github.io/Tic-Tac-Toe/)) TicTacToe : A easy time cutter for you 
 - [![website](./img/globe-dark.svg)](https://avneets2103.github.io/Basic-portfolio-/) Basic portfolio: Come to know me via a portfolio site 
 - [![website](./img/globe-dark.svg)](https://avneets2103.github.io/spotify-light-theme/) Spotify light theme: For all the light theme lovers, here I give uh your spotify
 - Foeto: Ongoing project with team of 5 
