@@ -1,11 +1,10 @@
 ### Hi there👋 I am Avneet Singh
-### Your friendly neighourhood developer...
+### Your friendly neighourhood developer/coder...
 
-- 🔭 Currently working on some front end projects using HTML,CSS,JS,Bootstrap.
-- 🌱  and currently learning EJS and Databases.
-- 👯 I’m looking to collaborate on web projects.
+- 🔭 Currently working on DSA and LeetCode questions
+- 🌱 and learning BlockChain development.
 - 📫 Reach me via: avneets2103@gmail.com
-- ⚡ SHAZAAM ... oops still human! 
+- ⚡ SHAZAM ... oops still human! 
 
 Contact me via: 
 
