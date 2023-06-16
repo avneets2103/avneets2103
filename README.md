@@ -10,6 +10,7 @@ Contact me via:
 
 [![website](./img/globe-light.svg)](https://avneets2103.github.io/Basic-portfolio-/)
 [![website](./img/globe-dark.svg)](https://avneets2103.github.io/Basic-portfolio-/)
+<a href="https://www.linkedin.com/in/avneets2103" target="_blank">Link</a>
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/avneetsingh2103)
 [![website](./img/twitter-dark.svg)](https://twitter.com/avneetsingh2103)
