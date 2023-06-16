@@ -11,7 +11,7 @@ Contact me via:
 [![website](./img/globe-light.svg)](https://avneets2103.github.io/Basic-portfolio-/)
 [![website](./img/globe-dark.svg)](https://avneets2103.github.io/Basic-portfolio-/)
 &nbsp;&nbsp;
-<a href="https://twitter.com/avneetsingh2103" target="_blank">(./img/twitter-light.svg)</a>
+<a href="https://twitter.com/avneetsingh2103" target="_blank"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpngimg.com%2Fuploads%2Ftwitter%2Ftwitter_PNG2.png&tbnid=KaM17RJgeu51wM&vet=12ahUKEwim893w5cf_AhVziOYKHW17Di8QMygbegUIARCnAg..i&imgrefurl=https%3A%2F%2Fpngimg.com%2Fimage%2F26943&docid=qCFTnB0EBEvj8M&w=626&h=626&q=twitter%20logo&hl=en&ved=2ahUKEwim893w5cf_AhVziOYKHW17Di8QMygbegUIARCnAg"></a>
 [![website](./img/twitter-dark.svg)](https://twitter.com/avneetsingh2103)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/avneets2103/)
