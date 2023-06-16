@@ -9,10 +9,7 @@
 Contact me via: 
 
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/avneets2103/" target="_blank">
-  <img src="./img/linkedin-dark.svg" alt="website">
-</a>
-
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/avneets2103/)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/avneet_singh_2103/?next=%2F)
 <br>
