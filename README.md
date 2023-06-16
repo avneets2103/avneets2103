@@ -14,8 +14,8 @@ Contact me via:
 [![website](./img/twitter-light.svg)](https://twitter.com/avneetsingh2103)
 [![website](./img/twitter-dark.svg)](https://twitter.com/avneetsingh2103)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/avneet-singh-5087ba214/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/avneet-singh-5087ba214/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/avneets2103/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/avneets2103/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/avneet_singh_2103/?next=%2F)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/avneet_singh_2103/?next=%2F)
