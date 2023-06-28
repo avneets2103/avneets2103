@@ -30,12 +30,20 @@ Stuff i know:
 
 Projects:
 
-- [![website](./img/globe-dark.svg)](https://avneets2103.github.io/Clocks/index.html) Clock : A clock to keep you on time
-- [![website](./img/globe-dark.svg)](https://avneets2103.github.io/Tic-Tac-Toe/) TicTacToe : A easy time cutter for you.
-- [![website](./img/globe-dark.svg)](https://avneets2103.github.io/Basic-portfolio-/) Basic portfolio: Come to know me via a portfolio site 
-- [![website](./img/globe-dark.svg)](https://avneets2103.github.io/spotify-light-theme/) Spotify light theme: For all the light theme lovers, here I give uh your spotify
-- Foeto: Ongoing project with team of 5 
-- [![website](./img/globe-dark.svg)](https://avneets2103.github.io/TinDog/) TinDog: A frontend website as Tinder for dogs
-- [![website](./img/globe-dark.svg)](https://avneets2103.github.io/DiceE/) DiceE: Basic Dice simulator game for resolving your disputes
-- DSA-qns: Questions using DSA for solving problems 
+- Virtual Quiz system: Quizzes got to life
+- 0/1 KnapSack game: A game using the mind-boggling concept of knapsack
+- Photography Portfolio site: A site to showcase my passion for photography
+- Portfolio: Come to know me via a portfolio site 
+- Clock: A clock to keep you on time
+- TicTacToe: A easy time cutter for you.
+- Spotify light theme: For all the light theme lovers, here I give uh your Spotify
+- Foeto: Ongoing project with a team of 5 
+- TinDog: A frontend website like Tinder for dogs
+- DiceE: Basic Dice simulator game for resolving your disputes
 ### and adding.
+
+Personal Ventures:
+
+- Daily Challenge LeetCode repo
+- DSA SDE sheet repo
+- HACKNITR repo
