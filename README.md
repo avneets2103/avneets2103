@@ -1,8 +1,8 @@
 ### Hi there👋 I am Avneet Singh
-### Your friendly neighourhood developer/coder...
+### Your friendly neighourhood nerd...
 
-- 🔭 Currently working on DSA and LeetCode questions
-- 🌱 and learning BlockChain development.
+- 🔭 Currently working on Deep Learning
+- 🌱 and learning backend development along side React.js.
 - 📫 Reach me via: avneets2103@gmail.com
 - ⚡ SHAZAM ... oops still human! 
 - Portfolio: https://avneets2103.github.io/Portfolio/
@@ -41,9 +41,3 @@ Projects:
 - TinDog: A frontend website like Tinder for dogs
 - DiceE: Basic Dice simulator game for resolving your disputes
 ### and adding.
-
-Personal Ventures:
-
-- Daily Challenge LeetCode repo
-- DSA SDE sheet repo
-- HACKNITR repo
