@@ -1,8 +1,9 @@
 ### Hi there👋 I am Avneet Singh
 ## Your friendly neighourhood nerd...
 
-- 🔭 Currently working on Deep Learning
-- 🌱 and learning backend development along side React.js.
+- 🧐 React developer
+- 🔭 Currently working on Deep Learning, and Hardware technology
+- 🌱 and learning backend development
 - 📫 Reach me via: avneets2103@gmail.com
 - ⚡ SHAZAM ... oops still human! 
 - Portfolio: https://avneets2103.github.io/Portfolio/
