@@ -61,6 +61,7 @@ General: <br /><br />
 - [Biloog](https://github.com/avneets2103/BlogSite): My own blog site using React and Appwrite.
 - [Google Stock predictor ](https://github.com/avneets2103/RL-stock-predictor): An RL model trained on google stocks to earn profit.
 - [Self Car racing agent](https://github.com/avneets2103/Car-racing-RL): An RL model trained to get high points in the Gymnasium racing environment.
+- [Amazon UI clone](https://avneets2103.github.io/Amazon-clone/): Cloning Amazon's UI with only HTML, CSS and JS.
 - [Pole balancing RL agent ](https://github.com/avneets2103/Pole-game-RL): An RL agent trained for the pole game in Gymnasium.
 - [Frozen lake RL agent ](https://github.com/avneets2103/Frozen-lake-Gym-Game): An RL agent trained for the frozen lake game in Gymnasium.
 - [IOT botnet detection ](https://github.com/avneets2103/IOT-botnet-frontend): An AI model to detect Botnet attacks.
