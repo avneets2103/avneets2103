@@ -1,9 +1,9 @@
 ### Hi there👋 I am Avneet Singh
 ## Your friendly neighourhood nerd...
 
-- 🧐 React developer
-- 🔭 Currently working on Deep Learning, and Hardware technology
-- 🌱 and learning backend development
+- 🧐 Next.js developer
+- 🔭 Currently working on Explainable AI, and MongoDB
+- 🌱 and making projects to scale up
 - 📫 Reach me via: avneets2103@gmail.com
 - ⚡ SHAZAM ... oops still human! 
 
@@ -31,6 +31,7 @@ Web:
 <img align='left' alt='ReactJs' width='48px' src='https://github.com/avneets2103/avneets2103/assets/93909103/2cbb2fbb-2255-4333-b289-b474cb67ffdb' style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Express.js" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/1ef7af28-2ab2-4947-9a1b-54be5ab4f60d" style="padding-right:10px;" />&nbsp;&nbsp;
+
 
 <br />
 
