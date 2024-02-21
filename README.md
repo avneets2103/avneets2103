@@ -1,7 +1,7 @@
 ### Hi there👋 I am Avneet Singh
 ## Your friendly neighourhood nerd...
 
-- 🧐 Next.js developer
+- 🧐 Next.js developer, versed in MERN stack
 - 🔭 Currently working on Explainable AI, and MongoDB
 - 🌱 and making projects to scale up
 - 📫 Reach me via: avneets2103@gmail.com
