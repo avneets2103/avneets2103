@@ -6,6 +6,7 @@
 - 🌱 and making projects to scale up
 - 📫 Reach me via: avneets2103@gmail.com
 - ⚡ SHAZAM ... oops still human! 
+- ⚡ My Portfolio: [Click here](https://parody-portfolio.vercel.app/)
 
 **Contact me via**: 
 
@@ -64,6 +65,7 @@ General: <br /><br />
 
 **Projects**:
 
+- [Parody Portfolio](https://github.com/avneets2103/parodyPortfolio/blob/main/README.md): A different take on portfolios, this one aint boring at all!
 - [Biloog](https://github.com/avneets2103/BlogSite): My own blog site using React and Appwrite.
 - [Google Stock predictor ](https://github.com/avneets2103/RL-stock-predictor): An RL model trained on google stocks to earn profit.
 - [Self Car racing agent](https://github.com/avneets2103/Car-racing-RL): An RL model trained to get high points in the Gymnasium racing environment.
