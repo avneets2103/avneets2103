@@ -78,7 +78,6 @@ General: <br /><br />
 - [Virtual Quiz system](https://github.com/avneets2103/Virtual-Quiz): Quizzes got to life using OpenCV.
 - [0/1 KnapSack game](https://github.com/avneets2103/0-1-KnapSack): A web game using concept of knapsack.
 - [Photography Portfolio site](https://github.com/avneets2103/Photography-portfolio): A site to showcase my passion for photography.
-- [Portfolio](https://github.com/avneets2103/Portfolio): Come to know me via a portfolio site 
 - [Clock](https://github.com/avneets2103/Clocks): A clock to keep you on time
 - [TicTacToe](https://github.com/avneets2103/Tic-Tac-Toe): A easy time cutter for you.
 - [Spotify light theme](https://github.com/avneets2103/spotify-light-theme): For all the light theme lovers, here I give uh your Spotify
