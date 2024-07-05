@@ -1,14 +1,15 @@
 ### Hi there👋 I am Avneet Singh
-## Your friendly neighourhood nerd...
+## Your friendly neighborhood nerd...
 
-- 🧐 Next.js developer, versed in MERN stack
-- 🔭 Currently working on Explainable AI, and MongoDB
-- 🌱 and making projects to scale up
+- 🧐 Next.js developer and versed in MERN stack
+- 🍀 love experimenting with [Explainable AI](https://drive.google.com/file/d/1TlxDpFiHSNI7NV5h4QK46R2PioU7M5lJ/view), [Deep Q Networks](https://github.com/avneets2103/RL-stock-predictor) and [Neural Networks](https://github.com/avneets2103/BotNet-detection/tree/main)
+- 🔭 Currently working on [SmartKart](https://smartkart-frontend.vercel.app/login) 
+- 🌱 and making personal projects to scale up
 - 📫 Reach me via: avneets2103@gmail.com
 - ⚡ SHAZAM ... oops still human! 
-- ⚡ My Portfolio: [Click here](https://parody-portfolio.vercel.app/)
+- ⚡ Love a different Portfolio? [Click here](https://parody-portfolio.vercel.app/)
 
-**Contact me via**: 
+**Find me on**: 
 
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/avneets2103/)
@@ -20,7 +21,7 @@
 
 <hr/>
 
-**Stuff i know**:
+## **Experienced with**:
 
 Web:
 <br/><br/>
@@ -34,6 +35,10 @@ Web:
 <img align='left' alt='Redux Toolkit' width='37px' src='https://github.com/avneets2103/avneets2103/assets/93909103/54f03d5a-29e2-4171-a074-440b1135f392' style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Node.js" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Express.js" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/1ef7af28-2ab2-4947-9a1b-54be5ab4f60d" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="npm" width="64px" src="https://github.com/avneets2103/avneets2103/assets/93909103/b201ded3-e6ed-4e44-8613-dd08b4b8883f" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="shadCN" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/63521cd8-2d7f-4581-bc3c-c545f4045dbd" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="cloudinary" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/ac0ee390-047e-4e51-91ad-12efeb912ac0" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="NextUI" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/809fd15a-6462-46d3-90d0-0c67849f4d8b" style="padding-right:10px;" />
 
 
 
@@ -41,6 +46,11 @@ Web:
 
 ML and AI:
 <br/><br/>
+
+<img align="left" alt="TensorFlow" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/f257c710-6467-459c-a495-bc9da97f9fae" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="Sci Kit Learn" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/a6031fcf-f460-46ec-a4dd-ad36f3690866" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="OpenCV" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/b21c8558-70e2-44a3-b336-472e8e25bb98" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="PyCharm" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/fd9fc02b-690a-4ae7-83fe-98acb0a5d1e0" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="PyCharm" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/4d734524-3eec-4007-87c3-fb6f802c58da" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Streamlit" width="47px" src="https://github.com/avneets2103/avneets2103/assets/93909103/418f4c0e-655b-4b73-bfe3-faa46e1c599a" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Gym" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/9ea2bf48-7715-4f8d-b158-7f60b9e73b98" style="padding-right:10px;" />&nbsp;&nbsp;
@@ -63,8 +73,9 @@ General: <br /><br />
 <br /><br/>
 <hr/>
 
-**Projects**:
+## **Projects**:
 
+- [SmartKart](https://github.com/avneets2103/smartkart): The better way to shop, provides you a minute to choose the best product for you!
 - [Parody Portfolio](https://github.com/avneets2103/parodyPortfolio/blob/main/README.md): A different take on portfolios, this one aint boring at all!
 - [Biloog](https://github.com/avneets2103/BlogSite): My own blog site using React and Appwrite.
 - [Google Stock predictor ](https://github.com/avneets2103/RL-stock-predictor): An RL model trained on google stocks to earn profit.
