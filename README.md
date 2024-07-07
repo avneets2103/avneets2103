@@ -75,7 +75,7 @@ General: <br /><br />
 
 ## **Projects**:
 
-- [SmartKart](https://github.com/avneets2103/smartkart): The better way to shop, provides you a minute to choose the best product for you!
+- [SmartKart](https://smartkart-frontend.vercel.app): The better way to shop, provides you a minute to choose the best product for you!
 - [Parody Portfolio](https://github.com/avneets2103/parodyPortfolio/blob/main/README.md): A different take on portfolios, this one aint boring at all!
 - [Biloog](https://github.com/avneets2103/BlogSite): My own blog site using React and Appwrite.
 - [Google Stock predictor ](https://github.com/avneets2103/RL-stock-predictor): An RL model trained on google stocks to earn profit.
