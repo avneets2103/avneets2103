@@ -51,6 +51,14 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/avneets2103/avneets2103/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=avneets2103&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avneets2103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
