@@ -10,7 +10,7 @@
 **Find me via:**
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&color=%23FF4301&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)](https://parody-portfolio.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-b?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3Aavneets2103%40gmail.com)](mailto:avneets2103@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-b?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3Aavneets2103%40gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-b?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Favneets2103%2F)](https://www.linkedin.com/in/avneets2103/)
 [![Instagram](https://img.shields.io/badge/Instagram-b?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Favneet_singh_2103%2F%3Fnext%3D%252F)](https://www.instagram.com/avneet_singh_2103/?next=%2F)
 [![Kaggle](https://img.shields.io/badge/Kaggle-b?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Favneets2103)](https://www.kaggle.com/avneets2103)
