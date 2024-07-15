@@ -1,77 +1,58 @@
-### Hi there👋 I am Avneet Singh
+![I am Avneet Singh](https://img.shields.io/badge/I%20am%20Avneet%20Singh-b?style=for-the-badge&label=Hey%20there!&color=black&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)
 ## Your friendly neighborhood nerd...
 
 - 🧐 Next.js developer and versed in MERN stack
 - 🍀 love experimenting with [Explainable AI](https://drive.google.com/file/d/1TlxDpFiHSNI7NV5h4QK46R2PioU7M5lJ/view), [Deep Q Networks](https://github.com/avneets2103/RL-stock-predictor) and [Neural Networks](https://github.com/avneets2103/BotNet-detection/tree/main)
-- 🔭 Currently working on [SmartKart](https://smartkart-frontend.vercel.app/login) 
+- 🔭 Currently working on SmartKart
 - 🌱 and making personal projects to scale up
-- 📫 Reach me via: avneets2103@gmail.com
 - ⚡ SHAZAM ... oops still human! 
-- ⚡ Love a different Portfolio? [Click here](https://parody-portfolio.vercel.app/)
 
-**Find me on**: 
+**Find me via:**
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/avneets2103/)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/avneet_singh_2103/?next=%2F)
-&nbsp;&nbsp;
-[![website](./img/kaggle)](https://www.kaggle.com/avneets2103)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&color=%23FF4301&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)](https://parody-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-b?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3Aavneets2103%40gmail.com)](mailto:avneets2103@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-b?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Favneets2103%2F)](https://www.linkedin.com/in/avneets2103/)
+[![Instagram](https://img.shields.io/badge/Instagram-b?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Favneet_singh_2103%2F%3Fnext%3D%252F)](https://www.instagram.com/avneet_singh_2103/?next=%2F)
+[![Kaggle](https://img.shields.io/badge/Kaggle-b?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Favneets2103)](https://www.kaggle.com/avneets2103)
 <br>
 
-<hr/>
+# 💻 Tech Stack:
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=Next.js&logoColor=white&color=black) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![ShadCN](https://img.shields.io/badge/ShadCN-black?style=for-the-badge&logo=shadcnui&logoColor=white&color=B266FF) 
+![NextUI](https://img.shields.io/badge/NextUI-black?style=for-the-badge&logo=nextui&logoColor=black&color=CCFFFF) 
+![Tailwind](https://img.shields.io/badge/Tailwind-b?style=for-the-badge&logo=tailwindcss&logoColor=black&color=06B6D4) 
+![Typescript](https://img.shields.io/badge/Typescript-b?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6) 
+![Redux Tool Kit](https://img.shields.io/badge/Redux%20Tool%20Kit-b?style=for-the-badge&logo=redux&logoColor=white&color=764ABC) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-b?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=%23000000) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-b?style=for-the-badge&logo=openaigym&logoColor=black&color=%230081A5)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-## **Experienced with**:
-
-Web:
-<br/><br/>
-<img align="left" alt="HTML5" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="CSS3" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Tailwind" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/f7a5a77c-b7e3-44f0-9fd3-3ab09dda7de1" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="JavaScript" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Typescript" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/642058b0-a12c-4aba-af5f-82a8c06c07ae" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align='left' alt='ReactJs' width='48px' src='https://github.com/avneets2103/avneets2103/assets/93909103/2cbb2fbb-2255-4333-b289-b474cb67ffdb' style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Next.js" width="37px" src="https://github.com/avneets2103/avneets2103/blob/main/img/Next.png" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align='left' alt='Redux Toolkit' width='37px' src='https://github.com/avneets2103/avneets2103/assets/93909103/54f03d5a-29e2-4171-a074-440b1135f392' style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Node.js" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Express.js" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/1ef7af28-2ab2-4947-9a1b-54be5ab4f60d" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="npm" width="64px" src="https://github.com/avneets2103/avneets2103/assets/93909103/b201ded3-e6ed-4e44-8613-dd08b4b8883f" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="shadCN" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/63521cd8-2d7f-4581-bc3c-c545f4045dbd" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="cloudinary" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/ac0ee390-047e-4e51-91ad-12efeb912ac0" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="NextUI" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/809fd15a-6462-46d3-90d0-0c67849f4d8b" style="padding-right:10px;" />
-
-
-
-<br />
-
-ML and AI:
-<br/><br/>
-
-<img align="left" alt="TensorFlow" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/f257c710-6467-459c-a495-bc9da97f9fae" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Sci Kit Learn" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/a6031fcf-f460-46ec-a4dd-ad36f3690866" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="OpenCV" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/b21c8558-70e2-44a3-b336-472e8e25bb98" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="PyCharm" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/fd9fc02b-690a-4ae7-83fe-98acb0a5d1e0" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="PyCharm" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/4d734524-3eec-4007-87c3-fb6f802c58da" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Streamlit" width="47px" src="https://github.com/avneets2103/avneets2103/assets/93909103/418f4c0e-655b-4b73-bfe3-faa46e1c599a" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Gym" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/9ea2bf48-7715-4f8d-b158-7f60b9e73b98" style="padding-right:10px;" />&nbsp;&nbsp;
-
-<br />
-
-Languages: <br /><br />
-<img align="left" alt="C++" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/0b40fa0b-3bb7-4ebe-bf5e-4fe41d90a6a5" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Java" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/6081d9fc-5df9-4d17-8b62-bed6b8c90112" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Python" width="37px" src="https://github.com/avneets2103/avneets2103/assets/93909103/ff159005-9c15-4365-80e2-cd7318a01dd2" style="padding-right:10px;" />&nbsp;&nbsp;
-
-
-<br />
-
-General: <br /><br />
-<img align="left" alt="Git" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="GitHub" width="37px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Terminal" width="37px" src="./img/terminal-dark.svg" />&nbsp;&nbsp;
-<img align="left" alt="Visual Studio Code" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
-<br /><br/>
-<hr/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=avneets2103&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avneets2103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## **Projects**:
 
@@ -96,3 +77,8 @@ General: <br /><br />
 - [TinDog](https://github.com/avneets2103/TinDog): A frontend website like Tinder for dogs
 - [DiceE](https://github.com/avneets2103/DiceE): Basic Dice simulator game for resolving your disputes
 ### and adding.
+
+---
+[![](https://visitcount.itsvg.in/api?id=avneets2103&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
