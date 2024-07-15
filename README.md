@@ -65,17 +65,9 @@
 - [Pole balancing RL agent ](https://github.com/avneets2103/Pole-game-RL): An RL agent trained for the pole game in Gymnasium.
 - [Frozen lake RL agent ](https://github.com/avneets2103/Frozen-lake-Gym-Game): An RL agent trained for the frozen lake game in Gymnasium.
 - [IOT botnet detection ](https://github.com/avneets2103/IOT-botnet-frontend): An AI model to detect Botnet attacks.
-- [Currency Converter](https://github.com/avneets2103/Currency-Converter): Convert that money in any other currency using live exchange rates.
-- [Password Generator](https://github.com/avneets2103/Password-Generator): Create secure and safe random passwords on the go.
 - [Virtual Quiz system](https://github.com/avneets2103/Virtual-Quiz): Quizzes got to life using OpenCV.
-- [0/1 KnapSack game](https://github.com/avneets2103/0-1-KnapSack): A web game using concept of knapsack.
 - [Photography Portfolio site](https://github.com/avneets2103/Photography-portfolio): A site to showcase my passion for photography.
-- [Clock](https://github.com/avneets2103/Clocks): A clock to keep you on time
-- [TicTacToe](https://github.com/avneets2103/Tic-Tac-Toe): A easy time cutter for you.
 - [Spotify light theme](https://github.com/avneets2103/spotify-light-theme): For all the light theme lovers, here I give uh your Spotify
-- [Foeto](https://github.com/avneets2103/Feoto): Ongoing project with a team of 5 
-- [TinDog](https://github.com/avneets2103/TinDog): A frontend website like Tinder for dogs
-- [DiceE](https://github.com/avneets2103/DiceE): Basic Dice simulator game for resolving your disputes
 ### and adding.
 
 ---
