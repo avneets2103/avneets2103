@@ -61,9 +61,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img alt="stats"  height="200px" src = "https://github-readme-stats.vercel.app/api?username=avneets2103&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img alt="stats"  height="150px" src = "https://github-readme-stats.vercel.app/api?username=avneets2103&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
   &nbsp;
-  <img alt="stats" src = "https://github-readme-streak-stats.herokuapp.com/?user=avneets2103&theme=tokyonight&count_private=true" height="200px"/>
+  <img alt="stats" src = "https://github-readme-streak-stats.herokuapp.com/?user=avneets2103&theme=tokyonight&count_private=true" height="150px"/>
   &nbsp;
 <!--   <img alt="stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avneets2103&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true" height="200px"/> -->
 </div>
