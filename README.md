@@ -19,6 +19,7 @@
 # 💻 Tech Stack:
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=Next.js&logoColor=white&color=black) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![AWS S3](https://img.shields.io/badge/AWS_S3-AWS_S3?style=for-the-badge&logo=amazon-web-services&logoColor=green&labelColor=black&color=black)
 ![React Native](https://img.shields.io/badge/React%20Native-asa?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361dafb&color=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
