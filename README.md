@@ -8,8 +8,7 @@
 - ⚡ SHAZAM ... oops still human! 
 
 **Find me via:**
-
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&color=%23FF4301&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)](https://parody-portfolio.vercel.app/)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&color=%23FF4301&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)](https://the-lore.vercel.app/)
 ![Gmail](https://img.shields.io/badge/Gmail-b?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3Aavneets2103%40gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-b?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Favneets2103%2F)](https://www.linkedin.com/in/avneets2103/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-b?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Favneets2103)](https://www.kaggle.com/avneets2103)
@@ -74,19 +73,19 @@
 
 ## **Projects**:
 <div align="center">
+  <a href="https://the-lore.vercel.app"><img alt="stats"  height="200px" src = "https://github.com/user-attachments/assets/512589c4-b7b5-4c62-b104-8774e3df75b5"/></a> &nbsp; &nbsp; &nbsp;
   <a href="https://smartkart-frontend.vercel.app/login" target="_blank"><img alt="stats"  height="200px" src = "./img/smartkart.png"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://parody-portfolio.vercel.app" target="_blank"><img alt="stats"  height="200px" src = "./img/portfolio.svg"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://parody-portfolio.vercel.app" target="_blank"><img alt="stats"  height="200px" src = "https://github.com/user-attachments/assets/d056a898-5379-478a-9d95-087f4a9df985"/></a>  &nbsp; &nbsp; &nbsp;
+  <br/>
+  <br/>
   <a href="https://www.youtube.com/watch?v=4YP3mwAaI9I&feature=youtu.be" target="_blank"><img alt="stats"  height="200px" src = "./img/coldmailer.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <br/>
-  <br/>
   <a href="https://drive.google.com/file/d/1YaWKXp_5Jn3sQG1PXXpybU80V6meWDup/view?usp=sharing" target="_blank"><img alt="stats"  height="200px" src = "./img/stocls.svg"/></a>  &nbsp; &nbsp; &nbsp;
   <a href="https://drive.google.com/file/d/1IEzZMl-g5IumpMpnrKEmvw1gYndULOdu/view?usp=sharing" target="_blank"><img alt="stats"  height="200px" src = "./img/bettercar.svg"/></a>  &nbsp; &nbsp; &nbsp;
+  <br/>
+  <br/>
   <a href="https://blog-site-2-nine.vercel.app/" target="_blank"><img alt="stats"  height="200px" src = "./img/biloog.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <br/>
-  <br/>
   <a href="https://avneets2103.github.io/Photography-portfolio/" target="_blank"><img alt="stats"  height="200px" src = "./img/photography.svg"/></a>  &nbsp; &nbsp; &nbsp;
   <a href="https://avneets2103.github.io/Amazon-clone/" target="_blank"><img alt="stats"  height="200px" src = "./img/amazon.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://avneets2103.github.io/spotify-light-theme/" target="_blank"><img alt="stats"  height="200px" src = "./img/spotify.svg"/></a>  &nbsp; &nbsp;&nbsp;
 </div>
 
 ### and adding.
