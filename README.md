@@ -8,6 +8,7 @@
 - ⚡ SHAZAM ... oops still human! 
 
 **Find me via:**
+
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&color=%23FF4301&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)](https://the-lore.vercel.app/)
 ![Gmail](https://img.shields.io/badge/Gmail-b?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3Aavneets2103%40gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-b?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Favneets2103%2F)](https://www.linkedin.com/in/avneets2103/)
