@@ -22,6 +22,7 @@
 
 # 💻 Tech Stack:
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=Next.js&logoColor=white&color=black)
+![Spline](https://img.shields.io/badge/Spline-adcad?style=for-the-badge&logo=circle&logoColor=white&color=%23DA26C0)
 ![TypeScript](https://img.shields.io/badge/Typescript-b?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-adcs?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=%23569A31&color=%23569A31)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
