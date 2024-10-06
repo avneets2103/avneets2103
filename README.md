@@ -19,6 +19,7 @@
 # 🎁 Gift for you:
 [![Next Template](https://img.shields.io/badge/My%20Next.js%20Frontend%20Template-adcs?style=for-the-badge&logo=Next.js&logoColor=black&labelColor=white&color=white&link=https%3A%2F%2Fgithub.com%2Favneets2103%2FNEXT-Frontend-Template)](https://github.com/avneets2103/NEXT-Frontend-Template)
 [![Node Template](https://img.shields.io/badge/My%20Node.js%20Backend%20Template-adcs?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=%2357811b&color=%2357811b&link=https%3A%2F%2Fgithub.com%2Favneets2103%2FNEXT-Frontend-Template)](https://github.com/avneets2103/NodeJS-Backend-Template)
+[![Flask template](https://img.shields.io/badge/flask%20backend%20template-adcad?style=for-the-badge&logo=flask&logoColor=white&labelColor=black&color=black)](https://github.com/avneets2103/Flask-template)
 
 # 💻 Tech Stack:
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=Next.js&logoColor=white&color=black)
@@ -27,6 +28,7 @@
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-adcs?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=%23569A31&color=%23569A31)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-adcad?style=for-the-badge&logo=flask&logoColor=%23000000&labelColor=white&color=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-b?style=for-the-badge&logo=tailwindcss&logoColor=black&color=06B6D4)
