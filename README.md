@@ -16,7 +16,7 @@
 [![Pexels](https://img.shields.io/badge/Pexels-asa?style=for-the-badge&logo=pexels&logoColor=%2305A081&labelColor=black&color=%2305A081)](https://www.pexels.com/@avneet-singh-1592548633)
 <be>
 
-# 🎁 Gift for you:
+# 🎁 Gifts for you:
 [![Next Template](https://img.shields.io/badge/My%20Next.js%20Frontend%20Template-adcs?style=for-the-badge&logo=Next.js&logoColor=black&labelColor=white&color=white&link=https%3A%2F%2Fgithub.com%2Favneets2103%2FNEXT-Frontend-Template)](https://github.com/avneets2103/NEXT-Frontend-Template)
 [![Node Template](https://img.shields.io/badge/My%20Node.js%20Backend%20Template-adcs?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=%2357811b&color=%2357811b&link=https%3A%2F%2Fgithub.com%2Favneets2103%2FNEXT-Frontend-Template)](https://github.com/avneets2103/NodeJS-Backend-Template)
 [![Flask template](https://img.shields.io/badge/flask%20backend%20template-adcad?style=for-the-badge&logo=flask&logoColor=white&labelColor=black&color=black)](https://github.com/avneets2103/Flask-template)
