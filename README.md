@@ -76,19 +76,19 @@
 
 ## **Projects**:
 <div align="center">
-  <a href="https://the-lore.vercel.app"><img alt="stats"  height="200px" src = "https://github.com/user-attachments/assets/512589c4-b7b5-4c62-b104-8774e3df75b5"/></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://smartkart-frontend.vercel.app/login" target="_blank"><img alt="stats"  height="200px" src = "./img/smartkart.png"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://parody-portfolio.vercel.app" target="_blank"><img alt="stats"  height="200px" src = "https://github.com/user-attachments/assets/d056a898-5379-478a-9d95-087f4a9df985"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/TheLore"><img alt="stats"  height="200px" src = "https://github.com/user-attachments/assets/512589c4-b7b5-4c62-b104-8774e3df75b5"/></a> &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/smartkart" target="_blank"><img alt="stats"  height="200px" src = "./img/smartkart.png"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/What_a_Joke" target="_blank"><img alt="stats"  height="200px" src = "./img/whatAJoke.svg"/></a>  &nbsp; &nbsp; &nbsp;
   <br/>
   <br/>
-  <a href="https://www.youtube.com/watch?v=4YP3mwAaI9I&feature=youtu.be" target="_blank"><img alt="stats"  height="200px" src = "./img/coldmailer.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://drive.google.com/file/d/1YaWKXp_5Jn3sQG1PXXpybU80V6meWDup/view?usp=sharing" target="_blank"><img alt="stats"  height="200px" src = "./img/stocls.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://drive.google.com/file/d/1IEzZMl-g5IumpMpnrKEmvw1gYndULOdu/view?usp=sharing" target="_blank"><img alt="stats"  height="200px" src = "./img/bettercar.svg"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/coldMailer" target="_blank"><img alt="stats"  height="200px" src = "./img/coldmailer.svg"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/Google-stock-predictor" target="_blank"><img alt="stats"  height="200px" src = "./img/stocls.svg"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/Car-racing-RL" target="_blank"><img alt="stats"  height="200px" src = "./img/bettercar.svg"/></a>  &nbsp; &nbsp; &nbsp;
   <br/>
   <br/>
-  <a href="https://blog-site-2-nine.vercel.app/" target="_blank"><img alt="stats"  height="200px" src = "./img/biloog.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://avneets2103.github.io/Photography-portfolio/" target="_blank"><img alt="stats"  height="200px" src = "./img/photography.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://avneets2103.github.io/Amazon-clone/" target="_blank"><img alt="stats"  height="200px" src = "./img/amazon.svg"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/BlogSite" target="_blank"><img alt="stats"  height="200px" src = "./img/biloog.svg"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/Photography-portfolio" target="_blank"><img alt="stats"  height="200px" src = "./img/photography.svg"/></a>  &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/avneets2103/Amazon-clone" target="_blank"><img alt="stats"  height="200px" src = "./img/amazon.svg"/></a>  &nbsp; &nbsp; &nbsp;
 </div>
 
 ### and adding.
