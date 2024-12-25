@@ -76,8 +76,8 @@
 
 ## **Projects**:
 <div align="center">
+  <a href="https://isha-five.vercel.app/" target="_blank"><img alt="stats"  height="200px" src = "https://github.com/user-attachments/assets/6680d481-9704-4377-b76e-7be63d69188a"/></a>  &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/avneets2103/TheLore"><img alt="stats"  height="200px" src = "https://github.com/user-attachments/assets/512589c4-b7b5-4c62-b104-8774e3df75b5"/></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/avneets2103/smartkart" target="_blank"><img alt="stats"  height="200px" src = "./img/smartkart.png"/></a>  &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/avneets2103/What_a_Joke" target="_blank"><img alt="stats"  height="200px" src = "./img/whatAJoke.svg"/></a>  &nbsp; &nbsp; &nbsp;
   <br/>
   <br/>
@@ -86,9 +86,9 @@
   <a href="https://github.com/avneets2103/Car-racing-RL" target="_blank"><img alt="stats"  height="200px" src = "./img/bettercar.svg"/></a>  &nbsp; &nbsp; &nbsp;
   <br/>
   <br/>
-  <a href="https://github.com/avneets2103/BlogSite" target="_blank"><img alt="stats"  height="200px" src = "./img/biloog.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/avneets2103/Photography-portfolio" target="_blank"><img alt="stats"  height="200px" src = "./img/photography.svg"/></a>  &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/avneets2103/Amazon-clone" target="_blank"><img alt="stats"  height="200px" src = "./img/amazon.svg"/></a>  &nbsp; &nbsp; &nbsp;
+<!--   <a href="https://github.com/avneets2103/BlogSite" target="_blank"><img alt="stats"  height="200px" src = "./img/biloog.svg"/></a>  &nbsp; &nbsp; &nbsp; -->
+<!--   <a href="https://github.com/avneets2103/Photography-portfolio" target="_blank"><img alt="stats"  height="200px" src = "./img/photography.svg"/></a>  &nbsp; &nbsp; &nbsp; -->
+<!--   <a href="https://github.com/avneets2103/Amazon-clone" target="_blank"><img alt="stats"  height="200px" src = "./img/amazon.svg"/></a>  &nbsp; &nbsp; &nbsp; -->
 </div>
 
 ### and adding.
